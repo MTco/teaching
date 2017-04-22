@@ -1,0 +1,25 @@
+/* Effective stylesheet produced by snapshot save */
+@font-face {
+  font-family: "ComicReliefBold";
+  font-style: normal;
+  font-weight: bold;
+  src: url("ComicReliefBold.ttf.otf") format("truetype");
+}
+@font-face {
+  font-family: "ComicReliefRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("ComicReliefRegular.ttf.otf") format("truetype");
+}
+@font-face {
+  font-family: "Comic Relief";
+  font-style: normal;
+  font-weight: bold;
+  src: url("ComicReliefBold.ttf.otf") format("truetype");
+}
+@font-face {
+  font-family: "Comic Relief";
+  font-style: normal;
+  font-weight: normal;
+  src: url("ComicReliefRegular.ttf.otf") format("truetype");
+}
